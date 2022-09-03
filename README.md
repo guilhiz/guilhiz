@@ -1,4 +1,4 @@
-## Prazer, meu nome é Guilherme Vilela, e sou estudante de programação!
+## Prazer, meu nome é Guilherme Vilela!
 
 <div align="center">
   <a href="https://github.com/guilhiz">
