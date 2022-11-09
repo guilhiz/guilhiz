@@ -3,8 +3,8 @@
 
 <div align="center">
   <a href="https://github.com/guilhiz">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=guilhiz&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhiz&layout=compact&langs_count=7&theme=radical"/>
+  <img height="150vh" src="https://github-readme-stats.vercel.app/api?username=guilhiz&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="150vh" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhiz&layout=compact&langs_count=7&theme=radical"/>
 </div>
   
   ## 🛠  Technologies and tools
