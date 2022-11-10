@@ -13,7 +13,7 @@
 </div>
 &nbsp;  
  
-[<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>][stats_tools_anchor]
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
   
   ## 🛠  Technologies and tools
         
@@ -45,4 +45,3 @@
 [<img src="https://img.shields.io/badge/Gmail-130F40?logo=gmail&logoColor=EA4335" alt="Gmail logo" title="Gmail" height="25" />](mailto:guilhermevilelasobral@gmail.com)
  
 [tech_tools_anchor]: #bonjour--
-[stats_tools_anchor]: #loading--
