@@ -17,31 +17,31 @@
   
   ## 🛠  Technologies and tools
         
-[<img src="https://img.shields.io/badge/HTML5-09071C?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/HTML5-130F40?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />][tech_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/CSS3-09071C?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/CSS3-130F40?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />][tech_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/JavaScript-09071C?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/JavaScript-130F40?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />][tech_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/TypeScript-09071C?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/TypeScript-130F40?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" />][tech_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/React-09071C?logo=react&logoColor=61DAFB" alt="React logo" title="React" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/React-130F40?logo=react&logoColor=61DAFB" alt="React logo" title="React" height="25" />][tech_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/Node.js-09071C?logo=node.js&logoColor=339933" alt="Node.js logo" title="Node.js" height="25" />][tech_tools_anchor] &nbsp;
-[<img src="https://img.shields.io/badge/MongoDB-09071C?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/Node.js-130F40?logo=node.js&logoColor=339933" alt="Node.js logo" title="Node.js" height="25" />][tech_tools_anchor] &nbsp;
+[<img src="https://img.shields.io/badge/MongoDB-130F40?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" />][tech_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/Netlify-09071C?logo=netlify&logoColor=4285F4" alt="Netlify logo" title="Netlify" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/Netlify-130F40?logo=netlify&logoColor=4285F4" alt="Netlify logo" title="Netlify" height="25" />][tech_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/git-09071C?logo=git&logoColor=F05032" alt="Git logo" title="git" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/git-130F40?logo=git&logoColor=F05032" alt="Git logo" title="git" height="25" />][tech_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/Linux-09071C?logo=linux&logoColor=black" alt="Linux logo" title="Linux" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/Linux-130F40?logo=linux&logoColor=black" alt="Linux logo" title="Linux" height="25" />][tech_tools_anchor]
   
 
 
    ## :writing_hand: Contact me
  
-[<img src="https://img.shields.io/badge/LinkedIn-09071C?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/guilhiz/)
+[<img src="https://img.shields.io/badge/LinkedIn-130F40?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/guilhiz/)
 &nbsp;
-[<img src="https://img.shields.io/badge/Gmail-09071C?logo=gmail&logoColor=EA4335" alt="Gmail logo" title="Gmail" height="25" />](mailto:guilhermevilelasobral@gmail.com)
+[<img src="https://img.shields.io/badge/Gmail-130F40?logo=gmail&logoColor=EA4335" alt="Gmail logo" title="Gmail" height="25" />](mailto:guilhermevilelasobral@gmail.com)
  
 [tech_tools_anchor]: #bonjour--
