@@ -1,11 +1,19 @@
 
-## Pleasure, my name is Guilherme Vilela!
+<h1 align="center">Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm <a href="https://www.linkedin.com/in/guilhiz/" target="_blank">Guilherme Vilela</a></h1> 
 
+&nbsp;
+<div align="center"><img src="https://readme-typing-svg.herokuapp.com?color=2234AE&size=25&center=true&vCenter=true&width=450&height=30&lines=Welcome+to+my+profile...;Glad+to+see+you+here!"/>
+</div>
+
+&nbsp;
 <div align="center">
   <a href="https://github.com/guilhiz">
-  <img height="150vh" src="https://github-readme-stats.vercel.app/api?username=guilhiz&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="150vh" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhiz&layout=compact&langs_count=7&theme=radical"/>
+  <img height="150vh" src="https://github-readme-stats.vercel.app/api?username=guilhiz&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="">
+  <img height="150vh" src="https://github-readme-stats.vercel.app/api/top-langs?username=guilhiz&layout=compact&show_icons=true&line_height=10&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt=""/>
 </div>
+&nbsp;  
+ 
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
   
   ## 🛠  Technologies and tools
         
@@ -32,7 +40,7 @@
 
    ## :writing_hand: Contact me
  
-[<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/guilherme-vilela-sobral/)
+[<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/guilhiz/)
 &nbsp;
 [<img src="https://img.shields.io/badge/Gmail-282C34?logo=gmail&logoColor=EA4335" alt="Gmail logo" title="Gmail" height="25" />](mailto:guilhermevilelasobral@gmail.com)
  
