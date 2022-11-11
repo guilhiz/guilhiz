@@ -43,5 +43,13 @@
 [<img src="https://img.shields.io/badge/LinkedIn-130F40?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/guilhiz/)
 &nbsp;
 [<img src="https://img.shields.io/badge/Gmail-130F40?logo=gmail&logoColor=EA4335" alt="Gmail logo" title="Gmail" height="25" />](mailto:guilhermevilelasobral@gmail.com)
+  
+  &nbsp;
+  <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
+  &nbsp;
+  
+  <div>
+    <a href="#"><img alt="Guilherme Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=guilhiz&custom_title=Guilherme's%20Contribution%20Graph&bg_color=161b22&color=7A7ADB&line=ffffff&point=79c0ff&hide_border=true" /></a>
+  <div>
  
 [tech_tools_anchor]: #bonjour--
