@@ -1,5 +1,5 @@
 
-<h1 align="center">Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm <a href="https://www.linkedin.com/in/guilhiz/" target="_blank">Guilherme Vilela</a> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30px"/></h1> 
+<h1 align="center">Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm <a href="https://www.linkedin.com/in/guilhiz/" target="_blank">Guilherme Vilela</a>! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30px"/></h1> 
 
 <div align="center"><img src="https://readme-typing-svg.herokuapp.com?color=2234AE&size=30&center=true&vCenter=true&width=450&height=30&lines=Welcome+to+my+profile...;Glad+to+see+you+here!"/>
 </div>
