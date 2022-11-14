@@ -1,7 +1,6 @@
 
 <h1 align="center">Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm <a href="https://www.linkedin.com/in/guilhiz/" target="_blank">Guilherme Vilela</a> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30px"/></h1> 
 
-&nbsp;
 <div align="center"><img src="https://readme-typing-svg.herokuapp.com?color=2234AE&size=30&center=true&vCenter=true&width=450&height=30&lines=Welcome+to+my+profile...;Glad+to+see+you+here!"/>
 </div>
 
@@ -45,10 +44,9 @@
 [<img src="https://img.shields.io/badge/Gmail-130F40?logo=gmail&logoColor=EA4335" alt="Gmail logo" title="Gmail" height="25" />](mailto:guilhermevilelasobral@gmail.com)
 &nbsp;
 
-&nbsp;
-  <div>
-    <a href="#"><img alt="Guilherme Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=guilhiz&custom_title=Guilherme's%20Contribution%20Graph&bg_color=161b22&color=7A7ADB&line=ffffff&point=79c0ff&hide_border=true" /></a>
-  <div>
+  <div align="center">
+<img src="https://user-images.githubusercontent.com/109693663/201658518-021db81b-544f-4794-a24f-3270716f35c1.gif" align="center">
+</div> 
     
  <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
     
