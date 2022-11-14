@@ -6,11 +6,9 @@
 
 &nbsp;
 <div align="center">
-  <a href="https://github.com/guilhiz">
-  <img height="145vh" src="https://github-readme-stats.vercel.app/api?username=guilhiz&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="">
-  <img height="145vh"src="https://github-readme-stats.vercel.app/api/top-langs?username=guilhiz&layout=compact&show_icons=true&line_height=10&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt=""/>
-</div>
-&nbsp;  
+<img src="https://user-images.githubusercontent.com/109693663/201658518-021db81b-544f-4794-a24f-3270716f35c1.gif" align="center">
+</div> 
+
  
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
   
@@ -44,9 +42,20 @@
 [<img src="https://img.shields.io/badge/Gmail-130F40?logo=gmail&logoColor=EA4335" alt="Gmail logo" title="Gmail" height="25" />](mailto:guilhermevilelasobral@gmail.com)
 &nbsp;
 
-  <div align="center">
-<img src="https://user-images.githubusercontent.com/109693663/201658518-021db81b-544f-4794-a24f-3270716f35c1.gif" align="center">
-</div> 
+## My Stats
+&nbsp;
+<div align="center">
+  <a href="https://github.com/guilhiz">
+  <img height="145vh" src="https://github-readme-stats.vercel.app/api?username=guilhiz&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="">
+  <img height="145vh"src="https://github-readme-stats.vercel.app/api/top-langs?username=guilhiz&layout=compact&show_icons=true&line_height=10&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt=""/>
+</div>
+  
+ &nbsp;
+  <div>
+    <a href="#"><img alt="Guilherme Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=guilhiz&custom_title=Guilherme's%20Contribution%20Graph&bg_color=161b22&color=7A7ADB&line=ffffff&point=79c0ff&hide_border=true" /></a>
+  <div>
+
+
     
  <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
     
