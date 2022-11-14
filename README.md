@@ -42,7 +42,7 @@
 [<img src="https://img.shields.io/badge/Gmail-130F40?logo=gmail&logoColor=EA4335" alt="Gmail logo" title="Gmail" height="25" />](mailto:guilhermevilelasobral@gmail.com)
 &nbsp;
 
-## My Stats
+## :chart_with_upwards_trend: My Stats
 &nbsp;
 <div align="center">
   <a href="https://github.com/guilhiz">
