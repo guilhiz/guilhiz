@@ -52,11 +52,9 @@
   
  &nbsp;
   <div>
-    <a href="#"><img alt="Guilherme Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=guilhiz&custom_title=Guilherme's%20Contribution%20Graph&bg_color=161b22&color=7A7ADB&line=ffffff&point=79c0ff&hide_border=true" /></a>
+    <a href="#"><img alt="Guilherme Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=guilhiz&bg_color=161b22&color=5c3566&line=9e4c98&point=5c3566&area=true&hide_border=true" /></a>
   <div>
 
-
-    
  <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
     
 [tech_tools_anchor]: #bonjour--
