@@ -63,11 +63,20 @@
 [<img src="https://img.shields.io/badge/Node.js-130F40?logo=node.js&logoColor=339933" alt="Node.js logo" title="Node.js" height="25" />][tech_tools_anchor] &nbsp;
 [<img src="https://img.shields.io/badge/MongoDB-130F40?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" />][tech_tools_anchor]
 &nbsp;
+[<img src="https://img.shields.io/badge/Styled--Components-130F40?&logo=styled-components&logoColor=DB7093" alt="Styled-component logo" title="Styled-component" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Vercel-130F40?&logo=vercel&logoColor=ffffff" alt="Vercel logo" title="Vercel" height="25" />][tech_tools_anchor]
+&nbsp;
 [<img src="https://img.shields.io/badge/Netlify-130F40?logo=netlify&logoColor=4285F4" alt="Netlify logo" title="Netlify" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/git-130F40?logo=git&logoColor=F05032" alt="Git logo" title="git" height="25" />][tech_tools_anchor]
 &nbsp;
+[<img src="https://img.shields.io/badge/Slack-130F40?&logo=slack&logoColor=4A154B" alt="Slack logo" title="slack" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Trello-130F40?&logo=trello&logoColor=0052CC" alt="Slack logo" title="slack" height="25" />][tech_tools_anchor]
+&nbsp;
 [<img src="https://img.shields.io/badge/Linux-130F40?logo=linux&logoColor=black" alt="Linux logo" title="Linux" height="25" />][tech_tools_anchor]
+
 
 &nbsp;
 
