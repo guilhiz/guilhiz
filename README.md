@@ -22,26 +22,26 @@
     </tr>
     <tr>
          <td>
-           <a href="https://github.com/guilhiz/CineFlex"><img src="https://github-readme-stats.vercel.app/api/pin/?username=guilhiz&repo=CineFlex&theme=github_dark"></a>
+           <a href="https://github.com/guilhiz/CineFlex"><img src="https://github-readme-stats.vercel.app/api/pin/?username=guilhiz&repo=CineFlex&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"></a>
          </td>
          <td>
-            <a href="https://github.com/guilhiz/Bate-Papo-UOL"><img src="https://github-readme-stats.vercel.app/api/pin/?username=guilhiz&repo=Bate-Papo-UOL&theme=github_dark"></a>
+            <a href="https://github.com/guilhiz/Bate-Papo-UOL"><img src="https://github-readme-stats.vercel.app/api/pin/?username=guilhiz&repo=Bate-Papo-UOL&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"></a>
          </td>
    </tr>
    <tr>
          <td>
-           <a href="https://github.com/guilhiz/ZapRecall"><img src="https://github-readme-stats.vercel.app/api/pin/?username=guilhiz&repo=ZapRecall&theme=github_dark"></a>
+           <a href="https://github.com/guilhiz/ZapRecall"><img src="https://github-readme-stats.vercel.app/api/pin/?username=guilhiz&repo=ZapRecall&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"></a>
          </td>
          <td>
-             <a href="https://github.com/guilhiz/Parrot-Card-Game"><img src="https://github-readme-stats.vercel.app/api/pin/?username=guilhiz&repo=Parrot-Card-Game&theme=github_dark"></a>
+             <a href="https://github.com/guilhiz/Parrot-Card-Game"><img src="https://github-readme-stats.vercel.app/api/pin/?username=guilhiz&repo=Parrot-Card-Game&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"></a>
          </td>
     </tr>
     <tr>
          <td>
-            <a href="https://github.com/guilhiz/Jogo-da-forca"><img src="https://github-readme-stats.vercel.app/api/pin/?username=guilhiz&repo=Jogo-da-forca&theme=github_dark"></a>
+            <a href="https://github.com/guilhiz/Jogo-da-forca"><img src="https://github-readme-stats.vercel.app/api/pin/?username=guilhiz&repo=Jogo-da-forca&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"></a>
          </td>
          <td>
-            <a href="https://github.com/guilhiz/Driven-Eats"><img src="https://github-readme-stats.vercel.app/api/pin/?username=guilhiz&repo=Driven-Eats&theme=github_dark"></a>
+            <a href="https://github.com/guilhiz/Driven-Eats"><img src="https://github-readme-stats.vercel.app/api/pin/?username=guilhiz&repo=Driven-Eats&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"></a>
          </td>
     </tr>
 
@@ -68,6 +68,16 @@
 [<img src="https://img.shields.io/badge/git-130F40?logo=git&logoColor=F05032" alt="Git logo" title="git" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/Linux-130F40?logo=linux&logoColor=black" alt="Linux logo" title="Linux" height="25" />][tech_tools_anchor]
+
+&nbsp;
+
+## :chart_with_upwards_trend: My Stats
+&nbsp;
+<div align="center">
+  <a href="https://github.com/guilhiz">
+  <img height="140vh" src="https://github-readme-stats.vercel.app/api?username=guilhiz&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="">
+  <img height="140vh"src="https://github-readme-stats.vercel.app/api/top-langs?username=guilhiz&layout=compact&show_icons=true&line_height=10&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt=""/>
+</div>
 
     
 [tech_tools_anchor]: #bonjour--
