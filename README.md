@@ -20,12 +20,20 @@
       <th align="center" width="50%"> React <img src="https://user-images.githubusercontent.com/109693663/207225133-2a594a5a-56da-4b0c-91d8-8ad74eeacaab.png" width="13px"></th>
       <th align="center" width="50%">Javascript Vanilla <img src="https://user-images.githubusercontent.com/109693663/207225942-d775c6d2-1830-4054-b9d3-27ffdb9977dc.png" width="12px"></th>
     </tr>
+   <tr>
+         <td>
+           <a href="https://github.com/guilhiz/TrackIt"><img src="https://github-readme-stats.vercel.app/api/pin/?username=guilhiz&repo=TrackIt&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"></a>
+         </td>
+         <td>
+            <a href="https://github.com/guilhiz/Bate-Papo-UOL"><img src="https://github-readme-stats.vercel.app/api/pin/?username=guilhiz&repo=Bate-Papo-UOL&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"></a>
+         </td>
+   </tr>
     <tr>
          <td>
            <a href="https://github.com/guilhiz/CineFlex"><img src="https://github-readme-stats.vercel.app/api/pin/?username=guilhiz&repo=CineFlex&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"></a>
          </td>
          <td>
-            <a href="https://github.com/guilhiz/Bate-Papo-UOL"><img src="https://github-readme-stats.vercel.app/api/pin/?username=guilhiz&repo=Bate-Papo-UOL&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"></a>
+            <a href="https://github.com/guilhiz/Parrot-Card-Game"><img src="https://github-readme-stats.vercel.app/api/pin/?username=guilhiz&repo=Parrot-Card-Game&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"></a>
          </td>
    </tr>
    <tr>
@@ -33,7 +41,7 @@
            <a href="https://github.com/guilhiz/ZapRecall"><img src="https://github-readme-stats.vercel.app/api/pin/?username=guilhiz&repo=ZapRecall&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"></a>
          </td>
          <td>
-             <a href="https://github.com/guilhiz/Parrot-Card-Game"><img src="https://github-readme-stats.vercel.app/api/pin/?username=guilhiz&repo=Parrot-Card-Game&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"></a>
+             <a href="https://github.com/guilhiz/Driven-Eats"><img src="https://github-readme-stats.vercel.app/api/pin/?username=guilhiz&repo=Driven-Eats&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"></a>
          </td>
     </tr>
     <tr>
@@ -41,7 +49,7 @@
             <a href="https://github.com/guilhiz/Jogo-da-forca"><img src="https://github-readme-stats.vercel.app/api/pin/?username=guilhiz&repo=Jogo-da-forca&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"></a>
          </td>
          <td>
-            <a href="https://github.com/guilhiz/Driven-Eats"><img src="https://github-readme-stats.vercel.app/api/pin/?username=guilhiz&repo=Driven-Eats&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"></a>
+            <a href="https://github.com/guilhiz/Projeto-Instagram"><img src="https://github-readme-stats.vercel.app/api/pin/?username=guilhiz&repo=Projeto-Instagram&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"></a>
          </td>
     </tr>
 
