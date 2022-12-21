@@ -44,15 +44,6 @@
              <a href="https://github.com/guilhiz/Driven-Eats"><img src="https://github-readme-stats.vercel.app/api/pin/?username=guilhiz&repo=Driven-Eats&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"></a>
          </td>
     </tr>
-    <tr>
-         <td>
-            <a href="https://github.com/guilhiz/Jogo-da-forca"><img src="https://github-readme-stats.vercel.app/api/pin/?username=guilhiz&repo=Jogo-da-forca&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"></a>
-         </td>
-         <td>
-            <a href="https://github.com/guilhiz/Projeto-Instagram"><img src="https://github-readme-stats.vercel.app/api/pin/?username=guilhiz&repo=Projeto-Instagram&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"></a>
-         </td>
-    </tr>
-
   </tbody>
 </table>
   
