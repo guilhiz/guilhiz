@@ -1,17 +1,9 @@
 
 <h1 align="center">Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm <a href="https://guilherme-vilela.vercel.app/" target="_blank">Guilherme Vilela</a>! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30px"/></h1> 
 
-<div align="center"><img src="https://readme-typing-svg.herokuapp.com?color=2234AE&size=30&center=true&vCenter=true&width=450&height=30&lines=Welcome+to+my+profile...;Glad+to+see+you+here!"/>
-</div>
 
-&nbsp;
 <div align="center">
-<img src="https://user-images.githubusercontent.com/109693663/201658518-021db81b-544f-4794-a24f-3270716f35c1.gif" align="center">
-</div> 
-
  
-<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
-
  ## 📋 Front-end Projects
 
 <table height="350px">
@@ -71,9 +63,15 @@
          </td>
    </tr>
   </tbody>
-</table>
-  
+ </table>
+</div>
+&nbsp;
+  <div align="center">
+ 
   ## 🛠  Technologies and tools
+ 
+ </div>
+ 
         
 [<img src="https://img.shields.io/badge/HTML5-130F40?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />][tech_tools_anchor]
 &nbsp;
@@ -87,6 +85,8 @@
 &nbsp;
 [<img src="https://img.shields.io/badge/Node.js-130F40?logo=node.js&logoColor=339933" alt="Node.js logo" title="Node.js" height="25" />][tech_tools_anchor] &nbsp;
 [<img src="https://img.shields.io/badge/MongoDB-130F40?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/PostgreSQL-130F40?logo=postgresql&logoColor=white" alt="Postgres logo" title="postgres" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/Styled--Components-130F40?&logo=styled-components&logoColor=DB7093" alt="Styled-component logo" title="Styled-component" height="25" />][tech_tools_anchor]
 &nbsp;
@@ -105,7 +105,11 @@
 
 &nbsp;
 
+<div align="center">
+ 
 ## 📊 My Stats
+ 
+ </div>
 &nbsp;
 <div align="center">
   <a href="https://github.com/guilhiz">
