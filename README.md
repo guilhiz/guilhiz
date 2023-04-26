@@ -83,14 +83,19 @@
 &nbsp;
 [<img src="https://img.shields.io/badge/React-130F40?logo=react&logoColor=61DAFB" alt="React logo" title="React" height="25" />][tech_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/Vite-130F40?logo=vite&logoColor=B73BFE" alt="React logo" title="React" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/next.js-130F40?logo=nextdotjs&logoColor=f1f1f1" alt="Next logo" title="Next" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Vite-130F40?logo=vite&logoColor=B73BFE" alt="Vite logo" title="Vite" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/Styled--Components-130F40?logo=styled-components&logoColor=DB7093" alt="Styled-component logo" title="Styled-component" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/Node.js-130F40?logo=node.js&logoColor=339933" alt="Node.js logo" title="Node.js" height="25" />][tech_tools_anchor] &nbsp;
+
 [<img src="https://img.shields.io/badge/Express-130F40?&logo=express&logoColor=000000" alt="Express logo" title="Express" height="25" />][tech_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/JWT-130F40?logo=JSON%20web%20tokens&logoColor=00000" alt="Express logo" title="Express" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/JWT-130F40?logo=JSON%20web%20tokens&logoColor=00000" alt="JWT logo" title="jwt" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Jest-130F40?logo=jest&logoColor=C21325" alt="JEST logo" title="jest" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/Prisma-130F40?&logo=Prisma&logoColor=3982CE" alt="Prisma logo" title="prisma" height="25" />][tech_tools_anchor]
 &nbsp;
@@ -106,13 +111,14 @@
 &nbsp;
 [<img src="https://img.shields.io/badge/Netlify-130F40?logo=netlify&logoColor=4285F4" alt="Netlify logo" title="Netlify" height="25" />][tech_tools_anchor]
 &nbsp;
+
 [<img src="https://img.shields.io/badge/git-130F40?logo=git&logoColor=F05032" alt="Git logo" title="git" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/Jira-130F40?style=&logo=Jira&logoColor=0052CC" alt="Jira logo" title="jira" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/Slack-130F40?&logo=slack&logoColor=4A154B" alt="Slack logo" title="slack" height="25" />][tech_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/Trello-130F40?&logo=trello&logoColor=0052CC" alt="Insomnia logo" title="insomnia" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/Trello-130F40?&logo=trello&logoColor=0052CC" alt="Trello logo" title="trello" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/Linux-130F40?logo=linux&logoColor=black" alt="Linux logo" title="Linux" height="25" />][tech_tools_anchor]
 
