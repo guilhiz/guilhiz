@@ -90,7 +90,6 @@
 [<img src="https://img.shields.io/badge/Styled--Components-130F40?logo=styled-components&logoColor=DB7093" alt="Styled-component logo" title="Styled-component" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/Node.js-130F40?logo=node.js&logoColor=339933" alt="Node.js logo" title="Node.js" height="25" />][tech_tools_anchor] &nbsp;
-
 [<img src="https://img.shields.io/badge/Express-130F40?&logo=express&logoColor=000000" alt="Express logo" title="Express" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/JWT-130F40?logo=JSON%20web%20tokens&logoColor=00000" alt="JWT logo" title="jwt" height="25" />][tech_tools_anchor]
@@ -111,7 +110,6 @@
 &nbsp;
 [<img src="https://img.shields.io/badge/Netlify-130F40?logo=netlify&logoColor=4285F4" alt="Netlify logo" title="Netlify" height="25" />][tech_tools_anchor]
 &nbsp;
-
 [<img src="https://img.shields.io/badge/git-130F40?logo=git&logoColor=F05032" alt="Git logo" title="git" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/Jira-130F40?style=&logo=Jira&logoColor=0052CC" alt="Jira logo" title="jira" height="25" />][tech_tools_anchor]
