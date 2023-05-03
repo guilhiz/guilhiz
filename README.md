@@ -102,6 +102,8 @@
 &nbsp;
 [<img src="https://img.shields.io/badge/PostgreSQL-130F40?logo=postgresql&logoColor=316192" alt="Postgres logo" title="postgres" height="25" />][tech_tools_anchor]
 &nbsp;
+[<img src="https://img.shields.io/badge/MySQL-130F40?logo=mysql&logoColor=005C84" alt="MySQL logo" title="MySQL" height="25" />][tech_tools_anchor]
+&nbsp;
 [<img src="https://img.shields.io/badge/Insomnia-130F40?logo=Insomnia&logoColor=5849be" alt="Slack logo" title="slack" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/Figma-130F40?logo=figma&logoColor=F24E1E" alt="Figma logo" title="figma" height="25" />][tech_tools_anchor]
