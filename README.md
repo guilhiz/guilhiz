@@ -20,14 +20,6 @@
             <a href="https://github.com/guilhiz/Bate-Papo-UOL"><img src="https://github-readme-stats.vercel.app/api/pin/?username=guilhiz&repo=Bate-Papo-UOL&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"></a>
          </td>
    </tr>
-    <tr>
-         <td>
-           <a href="https://github.com/guilhiz/CineFlex"><img src="https://github-readme-stats.vercel.app/api/pin/?username=guilhiz&repo=CineFlex&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"></a>
-         </td>
-         <td>
-            <a href="https://github.com/guilhiz/Parrot-Card-Game"><img src="https://github-readme-stats.vercel.app/api/pin/?username=guilhiz&repo=Parrot-Card-Game&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"></a>
-         </td>
-   </tr>
    <tr>
          <td>
            <a href="https://github.com/guilhiz/GitHub-Timeline"><img src="https://github-readme-stats.vercel.app/api/pin/?username=guilhiz&repo=GitHub-Timeline&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"></a>
@@ -36,6 +28,14 @@
              <a href="https://github.com/guilhiz/Driven-Eats"><img src="https://github-readme-stats.vercel.app/api/pin/?username=guilhiz&repo=Driven-Eats&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"></a>
          </td>
     </tr>
+    <tr>
+         <td>
+           <a href="https://github.com/guilhiz/CineFlex"><img src="https://github-readme-stats.vercel.app/api/pin/?username=guilhiz&repo=CineFlex&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"></a>
+         </td>
+         <td>
+            <a href="https://github.com/guilhiz/Parrot-Card-Game"><img src="https://github-readme-stats.vercel.app/api/pin/?username=guilhiz&repo=Parrot-Card-Game&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"></a>
+         </td>
+   </tr>
   </tbody>
 </table>
 
@@ -52,6 +52,14 @@
          </td>
          <td>
             <a href="https://github.com/guilhiz/API-My-Wallet"><img src="https://github-readme-stats.vercel.app/api/pin/?username=guilhiz&repo=API-My-Wallet&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"></a>
+         </td>
+   </tr>
+    <tr>
+         <td>
+           <a href="https://github.com/guilhiz/React-Boilerplate"><img src="https://github-readme-stats.vercel.app/api/pin/?username=guilhiz&repo=React-Boilerplate&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"></a>
+         </td>
+         <td>
+            <a href="https://github.com/guilhiz/Node-Boilerplate"><img src="https://github-readme-stats.vercel.app/api/pin/?username=guilhiz&repo=Node-Boilerplate&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"></a>
          </td>
    </tr>
     <tr>
